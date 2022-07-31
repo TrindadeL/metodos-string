@@ -1,0 +1,11 @@
+mensagem = "Eu gosto de ler"
+
+print(mensagem.upper())
+
+mensagem2 = "eu acordo cedo"
+
+print(mensagem2.find("u"))
+
+print(mensagem.replace("o", "a"))
+
+print(mensagem.replace("ler", "brincar"))
